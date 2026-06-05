@@ -9,5 +9,5 @@ alembic>=1.13.0
 redis>=5.0.0
 celery>=5.3.0
 python-jose[cryptography]>=3.3.0
-passlib[bcrypt]>=1.7.4\
-<truncated 42 bytes>
+passlib[bcrypt]>=1.7.4
+python-multipart>=0.0.9

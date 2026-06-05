@@ -11,5 +11,5 @@ __all__ = [
     "get_user_by_email",
     "create_user",
     "update_user",
-    "delete_
-<truncated 12 bytes>
+    "delete_user"
+]
